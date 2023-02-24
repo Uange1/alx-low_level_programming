@@ -9,10 +9,11 @@ int main(void)
 
 {
        	int i;
+	
 	i = 98;
 	pospositive_or_negative(i);
- 
-return (0);
+	
+	return (0);
 
 }
 
